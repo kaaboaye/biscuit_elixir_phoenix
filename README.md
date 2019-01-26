@@ -1,5 +1,7 @@
 # Biscuit
 
+> Read more at https://github.com/kaaboaye/biscuit-frontend
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
